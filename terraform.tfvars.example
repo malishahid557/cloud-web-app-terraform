@@ -1,0 +1,5 @@
+# Copy this file to terraform.tfvars and fill in your own values.
+# terraform.tfvars is gitignored and should never be committed.
+
+my_ip       = "YOUR_PUBLIC_IP_HERE"
+db_password = "CHOOSE_A_STRONG_PASSWORD"
